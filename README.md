@@ -1,1 +1,0 @@
-# training_react_native_delivery
